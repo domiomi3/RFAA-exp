@@ -1,0 +1,3 @@
+[submodule "RoseTTAFold-All-Atom"]
+	path = RoseTTAFold-All-Atom
+	url = https://github.com/baker-laboratory/RoseTTAFold-All-Atom.git
